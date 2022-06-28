@@ -1,0 +1,12 @@
+config\GenerarSerie.class
+Modelo\ClientesDAO.class
+Modelo\VentaDAO.class
+Modelo\Clientes.class
+Controlador\Controlador.class
+Modelo\Producto.class
+config\Conexion.class
+Modelo\Venta.class
+Controlador\Validar.class
+Modelo\EmpleadoDAO.class
+Modelo\Empleado.class
+Modelo\ProductoDAO.class
